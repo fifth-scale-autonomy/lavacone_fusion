@@ -1,0 +1,20 @@
+# colcon build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Claude / Claude Code 작업 문서 (레포에 올리지 않음)
+docs/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*:Zone.Identifier
